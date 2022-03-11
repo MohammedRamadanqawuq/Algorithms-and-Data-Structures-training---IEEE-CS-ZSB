@@ -1,0 +1,9 @@
+Problems:
+https://codeforces.com/problemset/problem/263/A
+https://codeforces.com/problemset/problem/992/A
+https://codeforces.com/problemset/problem/381/A
+https://codeforces.com/problemset/problem/707/A
+https://codeforces.com/problemset/problem/294/A
+https://codeforces.com/problemset/problem/155/A
+https://codeforces.com/problemset/problem/782/A
+https://codeforces.com/problemset/problem/999/A
